@@ -1,4 +1,4 @@
-### Hi, I'm iweijie  �😉✨
+### Hi, I'm iweijie  😉✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iweijie)](https://github.com/anuraghazra/github-readme-stats)
 <!--
